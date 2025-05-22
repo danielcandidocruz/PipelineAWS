@@ -1,4 +1,4 @@
-#🚀 Data Lake na AWS com Pipeline de Dados
+🚀 Data Lake na AWS com Pipeline de Dados
 
 Projeto prático que implementa um Data Lake escalável na AWS, com pipeline completa de dados: ingestão, ETL, processamento distribuído e organização em camadas (Bronze, Silver, Gold).
 
